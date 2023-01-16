@@ -1,0 +1,19 @@
+:root {
+  /* fonts */
+  --font-inter: Inter;
+  --font-pt-sans: "PT Sans";
+
+  /* font sizes */
+  --font-size-sm: 12.4px;
+  --font-size-base: 13.4px;
+  --font-size-lg: 16.4px;
+
+  /* Colors */
+  --color-white: #fff;
+  --color-gray-100: #f7fafc;
+  --color-gray-200: #27272e;
+  --color-indigo: #4c6fff;
+
+  /* border radiuses */
+  --br-md: 3px;
+}
